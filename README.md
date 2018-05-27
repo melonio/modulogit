@@ -1,1 +1,1 @@
-Este é o meu projeto, carente de funções e de praticamente tudo!
+Agora meu projeto tem C#, PHP, Java, js, html e css.
